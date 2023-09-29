@@ -1,0 +1,59 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Environmental Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Ecology"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Modern History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Intellectual History"
+    ]
+  ],
+  "legacy_uid": "5d4871e2-4abf-93bd-887c-d3caa0d9d9d9",
+  "instructors": {
+    "content": [
+      "c03f2fc6-bc6a-e647-a7b1-3baa451f2a05"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3586c63b-8241-30d2-632a-83e77b087a62",
+    "website": "21h-968j-nature-environment-and-empire-spring-2010"
+  },
+  "course_title": "Nature, Environment, and Empire",
+  "course_description": "This class examines the relationship between the study of natural history, both domestic and exotic, by Europeans and Americans, and exploration and exploitation of the natural world, focusing on the eighteenth and nineteenth centuries.\n",
+  "department_numbers": [
+    "21H",
+    "STS"
+  ],
+  "extra_course_numbers": "STS.415J",
+  "primary_course_number": "21H.968J",
+  "course_image_thumbnail": {
+    "content": "ee54b5a5-cd15-82b2-543e-d06b87426ca9",
+    "website": "21h-968j-nature-environment-and-empire-spring-2010"
+  },
+  "learning_resource_types": [
+    "Image Gallery",
+    "Written Assignments"
+  ],
+  "site_uid": "1a6f1df7-5aa3-482c-8c3f-0ca722f855b5",
+  "site_short_id": "21h.968j-spring-2010",
+  "title": "Course Metadata"
+}
